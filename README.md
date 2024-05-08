@@ -1,1 +1,1 @@
-# Miles to Km Converter GUI
+# Distance Converter w/ Tkinter GUI
